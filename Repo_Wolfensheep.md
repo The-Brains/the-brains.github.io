@@ -6,7 +6,7 @@ title: /WolfenSheep
 
 Check out our fully client side javascript game, [WolfenSheep](https://github.com/The-Brains/WolfenSheep).
 
-Try it out [here](/WolfenSheep).
+Try it out [here](/Wolfensheep).
 
 This is a **Work in Progress**
 
