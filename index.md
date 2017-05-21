@@ -8,3 +8,7 @@ Go to [https://the-brains.github.io/](https://the-brains.github.io/)
 ### Ideas
 
 [/Ideas](/ideas)
+
+### ChaosGame
+
+[/ChaosGame](/ChaosGame)
