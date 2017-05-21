@@ -2,6 +2,8 @@
 title: /WolfenSheep
 ---
 
+# Wolfensheep
+
 Check out our fully client side javascript game, [WolfenSheep](https://github.com/The-Brains/WolfenSheep).
 
 Try it out [here](/WolfenSheep).
