@@ -8,7 +8,7 @@ Check out our fully client side javascript game, [WolfenSheep](https://github.co
 
 Try it out [here](/WolfenSheep).
 
-This is a *Work in Progress*
+This is a **Work in Progress**
 
 We are using [Metarial Lite](https://getmdl.io/started/) for the design.
 
