@@ -1,6 +1,6 @@
 ---
 title: /Ideas
-layout: post
+layout: default
 ---
 
 Check out our first repo called Ideas where we organize and collect ideas. 
