@@ -1,7 +1,5 @@
-# Website for The Brains
-Main website for The Brains.
-
-Go to [https://the-brains.github.io/](https://the-brains.github.io/)
+The Brains
+Main website for [The Brains Organization](https://github.com/The-Brains).
 
 ## Repos
 
