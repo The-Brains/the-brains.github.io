@@ -11,4 +11,4 @@ Go to [https://the-brains.github.io/](https://the-brains.github.io/)
 
 ### ChaosGame
 
-[/ChaosGame](/ChaosGame)
+[/ChaosGame](/ChaosGameRepo)
