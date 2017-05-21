@@ -1,8 +1,6 @@
-# The Brains
+# [The Brains](https://github.com/The-Brains).
 
-Main website for [The Brains Organization](https://github.com/The-Brains).
-
-## Repos
+# Repos
 
 ### Ideas
 
