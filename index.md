@@ -6,12 +6,12 @@ Main website for [The Brains Organization](https://github.com/The-Brains).
 
 ### Ideas
 
-[/Ideas](/ideas)
+[/Ideas](/Repo_Ideas)
 
 ### ChaosGame
 
-[/ChaosGame](/ChaosGameRepo)
+[/ChaosGame](/Repo_ChaosGame)
 
 ### Wolfensheep
 
-[/Wolfensheep](/WolfensheepRepo)
+[/Wolfensheep](/Repo_Wolfensheep)
