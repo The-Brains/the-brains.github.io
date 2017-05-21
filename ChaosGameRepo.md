@@ -2,6 +2,8 @@
 title: /ChaosGame
 ---
 
+# Chaos Game
+
 Check out our first javascript experiment, [Chaos Game](https://github.com/The-Brains/ChaosGame).
 
 Try it out [here](/ChaosGame).
