@@ -1,4 +1,4 @@
-# [The Brains](https://github.com/The-Brains.
+# [The Brains](https://github.com/The-Brains)
 
 # Repos
 
