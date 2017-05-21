@@ -1,5 +1,3 @@
-# [The Brains](https://github.com/The-Brains)
-
 # Repos
 
 ### Ideas
